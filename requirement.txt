@@ -1,0 +1,17 @@
+click==6.7
+flasgger==0.8.1
+Flask==0.12.2
+Flask-Cors==3.0.3
+gunicorn==19.7.1
+itsdangerous==0.24
+Jinja2==2.10
+jsonschema==2.6.0
+MarkupSafe==1.0
+mistune==0.8.3
+numpy==1.14.0
+PyYAML==3.12
+scikit-learn==0.19.1
+scipy==1.0.0
+six==1.11.0
+sklearn==0.0
+Werkzeug==0.14.1
